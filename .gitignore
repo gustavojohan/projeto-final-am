@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 archive.zip
+data/DENGBR0[0-9].csv
+data/DENGBR1[0-9].csv
+data/DENGBR2[0-6].csv
