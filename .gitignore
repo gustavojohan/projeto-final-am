@@ -2,7 +2,9 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 archive.zip
-data/DENGBR0[0-9].csv
-data/DENGBR1[0-9].csv
-data/DENGBR2[0-6].csv
-estado_nutricional_paraiba_2019-2023.csv
+archive2.zip
+Patient_Info.csv
+Treatment_Outcome.csv
+Tumor_Clinical_Data.csv
+Descartado.ipynb
+pro.ipynb
